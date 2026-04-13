@@ -1757,3 +1757,658 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.13-16.41.34:469][192]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
 [2026.04.13-16.41.34:469][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2026.04.13-16.41.34:497][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.04.13-16.43.00:539][467]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2026.342163
+[2026.04.13-16.43.00:701][483]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-16.43.00:701][483]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2026.493530, Update Interval: 334.639130
+[2026.04.13-16.49.07:586][106]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2393.391357
+[2026.04.13-16.49.07:738][121]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-16.49.07:738][121]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2393.532959, Update Interval: 340.216675
+[2026.04.13-16.55.23:028][618]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2768.821289
+[2026.04.13-16.55.23:180][631]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-16.55.23:180][631]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2768.961914, Update Interval: 302.360291
+[2026.04.13-17.00.59:550][444]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3105.340088
+[2026.04.13-17.01.00:551][448]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-17.01.00:551][448]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3106.007080, Update Interval: 339.508057
+[2026.04.13-17.07.04:800][540]LogDerivedDataCache: C:/Users/et2-leveson/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.13-17.07.25:941][603]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3491.732178
+[2026.04.13-17.07.26:942][607]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-17.07.26:942][607]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3492.398682, Update Interval: 326.492493
+[2026.04.13-17.13.24:676][680]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3850.456787
+[2026.04.13-17.13.25:676][683]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-17.13.25:676][683]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3851.123535, Update Interval: 312.338013
+[2026.04.13-17.16.56:598][761]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.04.13-17.16.56:606][761]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.04.13-17.16.56:610][761]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.04.13-17.16.56:615][761]LogAutomationController: Ignoring very large delta of 7.46 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.04.13-17.16.56:620][762]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.04.13-17.19.26:920][658]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4212.633789
+[2026.04.13-17.19.27:073][672]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-17.19.27:073][673]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4212.774902, Update Interval: 352.604156
+[2026.04.13-17.20.34:042][811]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Inventory_Componenet
+[2026.04.13-17.20.34:048][811]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.04.13-17.20.47:409][ 27]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2026.04.13-17.20.47:409][ 27]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.04.13-17.20.47:526][ 27]LogStreaming: Display: FlushAsyncLoading(580): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.13-17.20.47:534][ 27]LogStaticMesh: Display: Building static mesh PhAT_FloorBox (Required Memory Estimate: 0.024887 MB)...
+[2026.04.13-17.20.47:535][ 27]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2026.04.13-17.20.47:979][ 28]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.04.13-17.20.48:048][ 30]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.04.13-17.21.16:949][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.04.13-17.21.18:209][659]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.13-17.21.18:257][659]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.04.13-17.21.18:282][659]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.04.13-17.21.18:282][659]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.04.13-17.21.18:291][659]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.04.13-17.21.18:291][659]LogSavePackage: Moving 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Saved/BP_ThirdPersonCharacter6E5107A14FAFE620BD23FAB6AFA129B1.tmp' to 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.04.13-17.21.18:300][659]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.040 ms (total: 306.480 ms)
+[2026.04.13-17.21.18:338][659]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.13-17.21.18:338][659]LogContentValidation: Enabled validators:
+[2026.04.13-17.21.18:338][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.13-17.21.18:338][659]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.13-17.21.18:338][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.13-17.21.18:338][659]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.13-17.21.18:338][659]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.13-17.21.18:338][659]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.13-17.21.18:338][659]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.04.13-17.21.19:746][785]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2026.04.13-17.21.19:768][785]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2026.04.13-17.21.19:772][785]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-17.21.19:772][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-17.21.19:803][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.04.13-17.21.25:458][296]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_Inventory_Componenet.BP_Inventory_Componenet
+[2026.04.13-17.21.25:459][296]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.04.13-17.21.48:840][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.04.13-17.21.54:258][809]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.13-17.21.54:320][809]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Inventory_Componenet] ([2] browsable assets)...
+[2026.04.13-17.21.54:320][809]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Inventory_Componenet]
+[2026.04.13-17.21.54:324][809]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Inventory_Componenet
+[2026.04.13-17.21.54:324][809]LogSavePackage: Moving 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Saved/BP_Inventory_ComponenetBE8415604FBEB5D7571DBC890D95EB51.tmp' to 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Content/ThirdPerson/Blueprints/BP_Inventory_Componenet.uasset'
+[2026.04.13-17.21.54:333][809]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.000 ms (total: 380.481 ms)
+[2026.04.13-17.21.54:371][809]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.13-17.21.54:371][809]LogContentValidation: Enabled validators:
+[2026.04.13-17.21.54:371][809]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.13-17.21.54:372][809]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.13-17.21.54:372][809]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.13-17.21.54:372][809]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.13-17.21.54:372][809]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.13-17.21.54:372][809]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.13-17.21.54:372][809]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Inventory_Componenet Validating asset
+[2026.04.13-17.21.56:875][ 30]LogSlate: Window 'BP_Inventory_Componenet' being destroyed
+[2026.04.13-17.21.56:898][ 30]LogSlate: Window 'BP_Inventory_Componenet' being destroyed
+[2026.04.13-17.21.56:939][ 30]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-17.21.56:939][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-17.21.56:964][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.04.13-17.22.03:831][669]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.13-17.22.03:837][669]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.04.13-17.22.03:837][669]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.04.13-17.22.03:838][669]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1.840 ms (total: 4.072 ms)
+[2026.04.13-17.22.03:838][669]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.13-17.22.03:859][669]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.13-17.22.03:861][669]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002241s)
+[2026.04.13-17.22.03:861][669]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002280s)
+[2026.04.13-17.22.03:870][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.04.13-17.22.03:871][669]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.04.13-17.22.03:872][669]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.13-17.22.03:872][669]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.13-17.22.03:872][669]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.13-17.22.03:872][669]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.13-17.22.03:873][669]LogWorldPartition: Display: WorldPartition initialize took 826 us (total: 107.814 ms)
+[2026.04.13-17.22.03:873][669]LogPlayLevel: PIE: World Init took: (0.001974s)
+[2026.04.13-17.22.03:873][669]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.04.13-17.22.03:873][669]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.13-17.22.03:873][669]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.13-17.22.03:874][669]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.13-17.22.03:874][669]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.13-17.22.03:874][669]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.13-17.22.03:874][669]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.13-17.22.03:874][669]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.13-17.22.03:874][669]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.13-17.22.03:874][669]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.13-17.22.03:874][669]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.13-17.22.03:874][669]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.13-17.22.03:876][669]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.13-17.22.03:920][669]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.04.13-17.22.03:920][669]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.13-17.22.03:920][669]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.13-17.22.03:920][669]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.13-17.22.03:920][669]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.04.13-17.22.03:920][669]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.04.13-17.22.03:922][669]LogInit: FAudioDevice initialized with ID 3.
+[2026.04.13-17.22.03:922][669]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.04.13-17.22.03:922][669]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.04.13-17.22.03:922][669]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2026.04.13-17.22.03:922][669]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.04.13-17.22.03:925][669]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.13-17.22.03:926][669]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2026.04.13-18.22.03
+[2026.04.13-17.22.03:926][669]LogWorld: Bringing up level for play took: 0.001183
+[2026.04.13-17.22.03:928][669]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2026.04.13-17.22.03:931][669]LogBlueprintUserMessages: [BP_Inventory_Componenet] Hello
+[2026.04.13-17.22.03:931][669]PIE: Server logged in
+[2026.04.13-17.22.03:932][669]PIE: Play in editor total start time 0.096 seconds.
+[2026.04.13-17.22.06:119][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.13-17.22.06:119][884]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.04.13-17.22.06:119][884]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-17.22.06:120][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-17.22.06:120][884]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.04.13-17.22.06:123][884]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.13-17.22.06:125][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-17.22.06:136][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.13-17.22.06:136][884]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.04.13-17.22.06:136][884]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2026.04.13-17.22.06:139][884]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2026.04.13-17.22.06:144][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.04.13-17.22.06:217][886]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2026.04.13-17.22.14:761][685]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_Inventory_Componenet.BP_Inventory_Componenet
+[2026.04.13-17.22.14:762][685]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.04.13-17.23.44:770][457]LogSlate: Window 'BP_Inventory_Componenet' being destroyed
+[2026.04.13-17.23.44:776][457]LogSlate: Window 'BP_Inventory_Componenet' being destroyed
+[2026.04.13-17.23.44:781][457]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-17.23.44:781][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-17.23.44:815][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.04.13-17.23.56:612][590]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.04.13-17.23.56:617][590]LogContentBrowser: Creating deferred item: NewFolder
+[2026.04.13-17.23.56:621][591]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.04.13-17.24.04:776][322]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2026.04.13-17.24.04:777][322]LogContentBrowser: End creating deferred item NewFolder
+[2026.04.13-17.24.37:419][964]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.04.13-17.24.37:433][964]LogAutomationController: Ignoring very large delta of 4.96 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.04.13-17.24.51:288][548]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2026.04.13-17.24.51:293][548]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2026.04.13-17.24.51:322][550]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedStruct).
+[2026.04.13-17.25.07:382][988]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> S_Item_Structure
+[2026.04.13-17.25.07:411][988]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2026.04.13-17.25.24:574][547]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Inventory/Blueprints/S_Item_Structure.S_Item_Structure
+[2026.04.13-17.25.50:482][841]LogSlate: Took 0.003317 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.04.13-17.25.56:595][426]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4602.372070
+[2026.04.13-17.25.56:761][441]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-17.25.56:761][442]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4602.528809, Update Interval: 344.565582
+[2026.04.13-17.26.45:077][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.04.13-17.26.45:079][871]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.034
+[2026.04.13-17.26.45:080][871]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/Blueprints/S_Item_Structure] ([1] browsable assets)...
+[2026.04.13-17.26.45:080][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Blueprints/S_Item_Structure]
+[2026.04.13-17.26.45:082][871]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/Blueprints/S_Item_Structure_Auto1
+[2026.04.13-17.26.45:082][871]LogSavePackage: Moving 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Saved/S_Item_Structure_Auto1A8DDB19149FD02BB8669E78C4B3EAC27.tmp' to 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Saved/Autosaves/Game/Inventory/Blueprints/S_Item_Structure_Auto1.uasset'
+[2026.04.13-17.26.45:083][871]LogFileHelpers: Auto-saving content packages took 0.004
+[2026.04.13-17.32.17:398][869]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4983.153320
+[2026.04.13-17.32.18:399][872]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-17.32.18:399][872]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4983.820312, Update Interval: 328.829010
+[2026.04.13-17.38.39:123][ 14]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5364.877441
+[2026.04.13-17.38.40:123][ 17]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-17.38.40:123][ 17]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5365.543945, Update Interval: 340.310059
+[2026.04.13-17.45.17:529][209]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5763.281738
+[2026.04.13-17.45.18:529][212]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-17.45.18:529][212]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5763.948242, Update Interval: 326.419250
+[2026.04.13-17.51.26:262][314]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6132.006836
+[2026.04.13-17.51.27:263][318]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-17.51.27:263][318]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6132.673828, Update Interval: 330.722382
+[2026.04.13-17.55.46:753][449]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.13-17.55.46:801][449]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/Blueprints/S_Item_Structure] ([1] browsable assets)...
+[2026.04.13-17.55.46:801][449]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Blueprints/S_Item_Structure]
+[2026.04.13-17.55.46:801][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Blueprints/S_Item_Structure" FILE="D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Content/Inventory/Blueprints/S_Item_Structure.uasset" SILENT=true
+[2026.04.13-17.55.46:803][449]LogSavePackage: Moving output files for package: /Game/Inventory/Blueprints/S_Item_Structure
+[2026.04.13-17.55.46:803][449]LogSavePackage: Moving 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Saved/S_Item_Structure4937DDCD4CD941482ADE62BA929DBE43.tmp' to 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Content/Inventory/Blueprints/S_Item_Structure.uasset'
+[2026.04.13-17.55.46:809][449]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.513 ms (total: 436.995 ms)
+[2026.04.13-17.55.46:866][449]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.13-17.55.46:866][449]LogContentValidation: Enabled validators:
+[2026.04.13-17.55.46:866][449]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.13-17.55.46:866][449]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.13-17.55.46:866][449]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.13-17.55.46:866][449]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.13-17.55.46:866][449]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.13-17.55.46:866][449]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.13-17.55.46:866][449]AssetCheck: /Game/Inventory/Blueprints/S_Item_Structure Validating asset
+[2026.04.13-17.55.48:712][614]LogSlate: Window 'S_Item_Structure' being destroyed
+[2026.04.13-17.55.48:717][614]LogSlate: Window 'S_Item_Structure' being destroyed
+[2026.04.13-17.56.06:258][247]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.04.13-17.56.06:262][247]LogContentBrowser: Creating deferred item: NewFolder
+[2026.04.13-17.56.06:267][248]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.04.13-17.56.13:836][935]LogContentBrowser: Attempting asset rename: NewFolder -> Models
+[2026.04.13-17.56.13:837][935]LogContentBrowser: End creating deferred item NewFolder
+[2026.04.13-17.57.27:947][513]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.04.13-17.57.36:369][212]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.13-17.57.50:925][678]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6516.678223
+[2026.04.13-17.57.51:057][694]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-17.57.51:057][694]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6516.803223, Update Interval: 312.098145
+[2026.04.13-17.58.57:509][979]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.04.13-17.58.57:516][979]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.04.13-17.58.57:520][979]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.04.13-17.58.57:537][981]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.04.13-17.59.01:678][379]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2026.04.13-17.59.01:683][379]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.04.13-17.59.04:215][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.04.13-17.59.05:534][628]LogSlate: Window 'Delete Assets' being destroyed
+[2026.04.13-17.59.05:552][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.04.13-17.59.05:563][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.04.13-17.59.05:575][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.04.13-17.59.19:294][829]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.04.13-17.59.19:301][829]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.04.13-17.59.19:307][829]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.04.13-17.59.19:308][829]LogAutomationController: Ignoring very large delta of 11.37 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.04.13-17.59.19:325][831]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.04.13-17.59.22:374][ 75]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2026.04.13-17.59.22:381][ 75]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.04.13-17.59.22:399][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.04.13-17.59.22:406][ 75]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG_Auto2
+[2026.04.13-17.59.22:406][ 75]LogSavePackage: Moving 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Saved/GK06JAEJ82TQ0GA2QB0DJG_Auto2907A66B848C12157C798F8B1DEAF07FA.tmp' to 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG_Auto2.uasset'
+[2026.04.13-17.59.22:410][ 75]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.023
+[2026.04.13-17.59.22:410][ 75]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.023
+[2026.04.13-17.59.37:866][593]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Item1
+[2026.04.13-17.59.37:963][593]LogMetaData: Removing '/Game/Inventory/Models/BP_Item1.BP_Item1:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Inventory/Models/NewBlueprint.PackageMetaData'
+[2026.04.13-17.59.37:963][593]LogMetaData: Removing '/Game/Inventory/Models/BP_Item1.SKEL_BP_Item1_C:UserConstructionScript' ref from Metadata '/Game/Inventory/Models/NewBlueprint.PackageMetaData'
+[2026.04.13-17.59.37:963][593]LogMetaData: Removing '/Game/Inventory/Models/BP_Item1.SKEL_BP_Item1_C' ref from Metadata '/Game/Inventory/Models/NewBlueprint.PackageMetaData'
+[2026.04.13-17.59.37:963][593]LogMetaData: Removing '/Game/Inventory/Models/BP_Item1.BP_Item1_C' ref from Metadata '/Game/Inventory/Models/NewBlueprint.PackageMetaData'
+[2026.04.13-17.59.37:963][593]LogMetaData: Removing '/Game/Inventory/Models/BP_Item1.BP_Item1:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Inventory/Models/NewBlueprint.PackageMetaData'
+[2026.04.13-17.59.37:963][593]LogMetaData: Removing '/Game/Inventory/Models/BP_Item1.BP_Item1:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Inventory/Models/NewBlueprint.PackageMetaData'
+[2026.04.13-17.59.37:963][593]LogMetaData: Removing '/Game/Inventory/Models/BP_Item1.BP_Item1:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Inventory/Models/NewBlueprint.PackageMetaData'
+[2026.04.13-17.59.37:963][593]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.13-17.59.37:963][593]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/Models/BP_Item1] ([2] browsable assets)...
+[2026.04.13-17.59.37:963][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Models/BP_Item1]
+[2026.04.13-17.59.37:963][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Models/BP_Item1" FILE="D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Content/Inventory/Models/BP_Item1.uasset" SILENT=true
+[2026.04.13-17.59.37:966][593]LogSavePackage: Moving output files for package: /Game/Inventory/Models/BP_Item1
+[2026.04.13-17.59.37:966][593]LogSavePackage: Moving 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Saved/BP_Item1DDB8B05149BF10D5EB36C3AD87438FCC.tmp' to 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Content/Inventory/Models/BP_Item1.uasset'
+[2026.04.13-17.59.37:971][593]LogFileHelpers: InternalPromptForCheckoutAndSave took 8.126 ms (total: 445.121 ms)
+[2026.04.13-17.59.37:994][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.04.13-17.59.38:006][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.04.13-17.59.38:017][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.04.13-17.59.38:080][593]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.13-17.59.38:080][593]LogContentValidation: Enabled validators:
+[2026.04.13-17.59.38:080][593]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.13-17.59.38:080][593]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.13-17.59.38:080][593]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.13-17.59.38:080][593]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.13-17.59.38:080][593]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.13-17.59.38:080][593]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.13-17.59.38:080][593]AssetCheck: /Game/Inventory/Models/BP_Item1 Validating asset
+[2026.04.13-17.59.51:201][864]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.04.13-17.59.51:209][864]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.04.13-17.59.51:214][864]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.04.13-17.59.51:215][864]LogAutomationController: Ignoring very large delta of 9.68 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.04.13-17.59.51:222][865]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.04.13-18.00.06:963][284]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Item2
+[2026.04.13-18.00.06:967][284]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.04.13-18.00.20:463][530]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.04.13-18.00.20:473][530]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.04.13-18.00.20:479][530]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.04.13-18.00.20:479][530]LogAutomationController: Ignoring very large delta of 11.04 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.04.13-18.00.20:488][531]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.04.13-18.03.44:728][397]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6870.511719
+[2026.04.13-18.03.45:731][400]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-18.03.45:731][400]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6871.178711, Update Interval: 336.336548
+[2026.04.13-18.04.52:033][598]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2026.04.13-18.04.52:038][598]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.04.13-18.05.02:558][552]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Item3
+[2026.04.13-18.05.02:633][552]LogMetaData: Removing '/Game/Inventory/Models/BP_Item3.BP_Item3:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Inventory/Models/NewBlueprint.PackageMetaData'
+[2026.04.13-18.05.02:633][552]LogMetaData: Removing '/Game/Inventory/Models/BP_Item3.SKEL_BP_Item3_C:UserConstructionScript' ref from Metadata '/Game/Inventory/Models/NewBlueprint.PackageMetaData'
+[2026.04.13-18.05.02:633][552]LogMetaData: Removing '/Game/Inventory/Models/BP_Item3.SKEL_BP_Item3_C' ref from Metadata '/Game/Inventory/Models/NewBlueprint.PackageMetaData'
+[2026.04.13-18.05.02:633][552]LogMetaData: Removing '/Game/Inventory/Models/BP_Item3.BP_Item3_C' ref from Metadata '/Game/Inventory/Models/NewBlueprint.PackageMetaData'
+[2026.04.13-18.05.02:633][552]LogMetaData: Removing '/Game/Inventory/Models/BP_Item3.BP_Item3:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Inventory/Models/NewBlueprint.PackageMetaData'
+[2026.04.13-18.05.02:633][552]LogMetaData: Removing '/Game/Inventory/Models/BP_Item3.BP_Item3:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Inventory/Models/NewBlueprint.PackageMetaData'
+[2026.04.13-18.05.02:633][552]LogMetaData: Removing '/Game/Inventory/Models/BP_Item3.BP_Item3:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Inventory/Models/NewBlueprint.PackageMetaData'
+[2026.04.13-18.05.02:633][552]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.13-18.05.02:633][552]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/Models/BP_Item3] ([2] browsable assets)...
+[2026.04.13-18.05.02:633][552]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Models/BP_Item3]
+[2026.04.13-18.05.02:633][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Models/BP_Item3" FILE="D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Content/Inventory/Models/BP_Item3.uasset" SILENT=true
+[2026.04.13-18.05.02:636][552]LogSavePackage: Moving output files for package: /Game/Inventory/Models/BP_Item3
+[2026.04.13-18.05.02:636][552]LogSavePackage: Moving 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Saved/BP_Item3FEFF7B604FCEAF62A84F2E8F44AA7F35.tmp' to 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Content/Inventory/Models/BP_Item3.uasset'
+[2026.04.13-18.05.02:641][552]LogFileHelpers: InternalPromptForCheckoutAndSave took 6.895 ms (total: 452.017 ms)
+[2026.04.13-18.05.02:663][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.04.13-18.05.02:675][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.04.13-18.05.02:684][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.04.13-18.05.02:740][552]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.13-18.05.02:740][552]LogContentValidation: Enabled validators:
+[2026.04.13-18.05.02:740][552]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.13-18.05.02:740][552]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.13-18.05.02:740][552]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.13-18.05.02:740][552]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.13-18.05.02:740][552]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.13-18.05.02:740][552]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.13-18.05.02:740][552]AssetCheck: /Game/Inventory/Models/BP_Item3 Validating asset
+[2026.04.13-18.05.03:762][658]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Inventory/Models/BP_Item3.BP_Item3
+[2026.04.13-18.05.03:762][658]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.04.13-18.05.18:913][857]LogSlate: Took 0.000445 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.04.13-18.05.23:434][375]LogStreaming: Display: FlushAsyncLoading(582): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.13-18.05.23:439][375]LogStaticMesh: Display: Building static mesh Shape_Cube (Required Memory Estimate: 0.083673 MB)...
+[2026.04.13-18.05.23:440][375]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube
+[2026.04.13-18.05.23:444][375]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.04.13-18.05.45:584][527]LogStreaming: Display: FlushAsyncLoading(583): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.13-18.05.59:691][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.04.13-18.06.02:237][904]LogSlate: Window 'BP_Item3' being destroyed
+[2026.04.13-18.06.02:242][904]LogSlate: Window 'BP_Item3' being destroyed
+[2026.04.13-18.06.02:246][904]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-18.06.02:246][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-18.06.02:277][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.04.13-18.06.05:647][216]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Inventory/Models/BP_Item2.BP_Item2
+[2026.04.13-18.06.05:648][216]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.04.13-18.06.20:300][414]LogStreaming: Display: FlushAsyncLoading(584): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.13-18.06.20:302][414]LogStaticMesh: Display: Building static mesh MaterialSphere (Required Memory Estimate: 1.096681 MB)...
+[2026.04.13-18.06.20:305][414]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/MaterialSphere.MaterialSphere
+[2026.04.13-18.06.20:309][414]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display: ================================================
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display: Total job queries 11,662, among them cache hits 6 (0.05%), DDC hits 0 (0.00%), Duplicates 2,682 (23.00%)
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display: Tracking 8,974 distinct input hashes that result in 8,478 distinct outputs (94.47%)
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display: RAM used: 6.36 MiB of 3.20 GiB budget. Usage: 0.19%
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display: Shaders Compiled: 8,974
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display: Jobs assigned 8,974, completed 8,974 (100%)
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display: Average time worker was idle: 35.67 s
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display: Time job spent in pending queue: average 106.76 s, longest 230.02 s
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display: Job execution time: average 3.14 s, max 45.43 s
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display: Job life time (pending + execution): average 109.90 s, max 230.46
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display: Shader code size: average 14.288 KiB, min 1.16 KiB, max 330.166 KiB
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 253.15 s
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.17%
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display: Jobs were issued in 1,018 batches (only local compilation was used), average 8.82 jobs/batch
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display: Average processing rate: 35.45 jobs/sec
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display: Total thread time: 2,813.112 s
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display: Total thread preprocess time: 83.918 s
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display: Percentage time preprocessing: 2.98%
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display: Effective parallelization: 11.11 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   27 times, average 11.84 sec, max 39.94 sec, min 0.84 sec)
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    1 times, average 9.29 sec, max 9.29 sec, min 9.29 sec)
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 4.83 sec, max 5.63 sec, min 3.38 sec)
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 2.35 sec, max 2.35 sec, min 2.35 sec)
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 2.22 sec, max 2.22 sec, min 2.22 sec)
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.70% of total time (compiled  454 times, average 0.79 sec, max 1.12 sec, min 0.53 sec)
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 11.37% of total time (compiled   27 times, average 11.84 sec, max 39.94 sec, min 0.84 sec)
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 10.37% of total time (compiled  260 times, average 1.12 sec, max 2.72 sec, min 0.00 sec)
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 5.54% of total time (compiled  480 times, average 0.32 sec, max 0.54 sec, min 0.14 sec)
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 3.92% of total time (compiled   72 times, average 1.53 sec, max 2.32 sec, min 1.09 sec)
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display: === Material stats ===
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display: Materials Translated:    137
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display: Material Total Translate Time: 0.08 s
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display: Material Translation Only: 0.03 s (39%)
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.04.13-18.06.21:727][513]LogShaderCompilers: Display: ================================================
+[2026.04.13-18.06.44:129][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.04.13-18.06.45:492][324]LogSlate: Window 'Save Content' being destroyed
+[2026.04.13-18.06.45:508][324]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.13-18.06.45:554][324]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Models/BP_Item2] ([2] browsable assets)...
+[2026.04.13-18.06.45:581][324]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Inventory/Models/BP_Item2.BP_Item2]
+[2026.04.13-18.06.45:581][324]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.04.13-18.06.45:593][324]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Inventory/Models/BP_Item2.BP_Item2_C]
+[2026.04.13-18.06.45:593][324]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Models/BP_Item2]
+[2026.04.13-18.06.45:593][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Models/BP_Item2" FILE="D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Content/Inventory/Models/BP_Item2.uasset" SILENT=true
+[2026.04.13-18.06.45:596][324]LogSavePackage: Moving output files for package: /Game/Inventory/Models/BP_Item2
+[2026.04.13-18.06.45:596][324]LogSavePackage: Moving 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Saved/BP_Item2412BE8E24A29AA936F9A138105184ECF.tmp' to 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Content/Inventory/Models/BP_Item2.uasset'
+[2026.04.13-18.06.45:598][324]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Models/BP_Item3] ([2] browsable assets)...
+[2026.04.13-18.06.45:599][324]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.04.13-18.06.45:608][324]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Inventory/Models/BP_Item3.BP_Item3_C]
+[2026.04.13-18.06.45:613][324]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Inventory/Models/BP_Item3.BP_Item3]
+[2026.04.13-18.06.45:613][324]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Models/BP_Item3]
+[2026.04.13-18.06.45:613][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Models/BP_Item3" FILE="D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Content/Inventory/Models/BP_Item3.uasset" SILENT=true
+[2026.04.13-18.06.45:615][324]LogSavePackage: Moving output files for package: /Game/Inventory/Models/BP_Item3
+[2026.04.13-18.06.45:616][324]LogSavePackage: Moving 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Saved/BP_Item34FD780C447D5EDE59A5272A5C2008D68.tmp' to 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Content/Inventory/Models/BP_Item3.uasset'
+[2026.04.13-18.06.45:618][324]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG
+[2026.04.13-18.06.45:619][324]LogSavePackage: Moving 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Saved/GK06JAEJ82TQ0GA2QB0DJG508470F94B2E7898E429D7B44E9F7F13.tmp' to 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset'
+[2026.04.13-18.06.45:629][324]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.305 ms (total: 573.322 ms)
+[2026.04.13-18.06.45:686][324]LogContentValidation: Display: Starting to validate 3 assets
+[2026.04.13-18.06.45:686][324]LogContentValidation: Enabled validators:
+[2026.04.13-18.06.45:686][324]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.13-18.06.45:686][324]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.13-18.06.45:686][324]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.13-18.06.45:686][324]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.13-18.06.45:686][324]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.13-18.06.45:686][324]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.13-18.06.45:686][324]AssetCheck: /Game/Inventory/Models/BP_Item2 Validating asset
+[2026.04.13-18.06.45:686][324]AssetCheck: /Game/Inventory/Models/BP_Item3 Validating asset
+[2026.04.13-18.06.45:686][324]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2026.04.13-18.06.54:640][151]LogStreaming: Display: FlushAsyncLoading(585): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.13-18.06.58:384][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.04.13-18.06.59:459][483]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.13-18.06.59:519][483]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Inventory/Models/BP_Item2] ([2] browsable assets)...
+[2026.04.13-18.06.59:546][483]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Inventory/Models/BP_Item2.BP_Item2]
+[2026.04.13-18.06.59:546][483]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Models/BP_Item2]
+[2026.04.13-18.06.59:546][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Models/BP_Item2" FILE="D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Content/Inventory/Models/BP_Item2.uasset" SILENT=true
+[2026.04.13-18.06.59:549][483]LogSavePackage: Moving output files for package: /Game/Inventory/Models/BP_Item2
+[2026.04.13-18.06.59:549][483]LogSavePackage: Moving 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Saved/BP_Item2836A2B02489A7E2F5DF0DF8530C7A6CC.tmp' to 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Content/Inventory/Models/BP_Item2.uasset'
+[2026.04.13-18.06.59:558][483]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.313 ms (total: 671.636 ms)
+[2026.04.13-18.06.59:621][483]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.13-18.06.59:621][483]LogContentValidation: Enabled validators:
+[2026.04.13-18.06.59:621][483]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.13-18.06.59:621][483]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.13-18.06.59:621][483]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.13-18.06.59:621][483]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.13-18.06.59:621][483]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.13-18.06.59:621][483]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.13-18.06.59:622][483]AssetCheck: /Game/Inventory/Models/BP_Item2 Validating asset
+[2026.04.13-18.07.00:873][579]LogSlate: Window 'BP_Item2' being destroyed
+[2026.04.13-18.07.00:878][579]LogSlate: Window 'BP_Item2' being destroyed
+[2026.04.13-18.07.00:881][579]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-18.07.00:881][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-18.07.00:913][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.04.13-18.07.03:576][822]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Inventory/Models/BP_Item1.BP_Item1
+[2026.04.13-18.07.03:577][822]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2026.04.13-18.07.04:876][894]LogDerivedDataCache: C:/Users/et2-leveson/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.13-18.07.16:108][135]LogStreaming: Display: FlushAsyncLoading(586): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.13-18.07.16:109][135]LogStaticMesh: Display: Building static mesh Shape_NarrowCapsule (Required Memory Estimate: 1.724726 MB)...
+[2026.04.13-18.07.16:116][135]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_NarrowCapsule.Shape_NarrowCapsule
+[2026.04.13-18.07.16:120][135]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2026.04.13-18.07.27:250][199]LogStreaming: Display: FlushAsyncLoading(587): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.13-18.07.30:663][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.04.13-18.07.32:185][432]LogSlate: Window 'Save Content' being destroyed
+[2026.04.13-18.07.32:201][432]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.13-18.07.32:250][432]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Models/BP_Item1] ([2] browsable assets)...
+[2026.04.13-18.07.32:250][432]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2026.04.13-18.07.32:283][432]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Inventory/Models/BP_Item1.BP_Item1_C]
+[2026.04.13-18.07.32:288][432]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Inventory/Models/BP_Item1.BP_Item1]
+[2026.04.13-18.07.32:288][432]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Models/BP_Item1]
+[2026.04.13-18.07.32:288][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Models/BP_Item1" FILE="D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Content/Inventory/Models/BP_Item1.uasset" SILENT=true
+[2026.04.13-18.07.32:291][432]LogSavePackage: Moving output files for package: /Game/Inventory/Models/BP_Item1
+[2026.04.13-18.07.32:291][432]LogSavePackage: Moving 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Saved/BP_Item100163F7F42C3B5ACE5442EA5BF816EF9.tmp' to 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Content/Inventory/Models/BP_Item1.uasset'
+[2026.04.13-18.07.32:300][432]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.661 ms (total: 771.297 ms)
+[2026.04.13-18.07.32:332][432]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.13-18.07.32:332][432]LogContentValidation: Enabled validators:
+[2026.04.13-18.07.32:332][432]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.13-18.07.32:332][432]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.13-18.07.32:332][432]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.13-18.07.32:332][432]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.13-18.07.32:332][432]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.13-18.07.32:332][432]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.13-18.07.32:333][432]AssetCheck: /Game/Inventory/Models/BP_Item1 Validating asset
+[2026.04.13-18.07.33:254][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.04.13-18.07.37:395][797]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.13-18.07.37:450][797]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Inventory/Models/BP_Item1] ([2] browsable assets)...
+[2026.04.13-18.07.37:477][797]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Inventory/Models/BP_Item1.BP_Item1]
+[2026.04.13-18.07.37:477][797]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Models/BP_Item1]
+[2026.04.13-18.07.37:477][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Models/BP_Item1" FILE="D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Content/Inventory/Models/BP_Item1.uasset" SILENT=true
+[2026.04.13-18.07.37:481][797]LogSavePackage: Moving output files for package: /Game/Inventory/Models/BP_Item1
+[2026.04.13-18.07.37:481][797]LogSavePackage: Moving 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Saved/BP_Item119B2A4BF43C1C5AC1149C189E5229B27.tmp' to 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Content/Inventory/Models/BP_Item1.uasset'
+[2026.04.13-18.07.37:489][797]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.392 ms (total: 864.690 ms)
+[2026.04.13-18.07.37:550][797]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.13-18.07.37:550][797]LogContentValidation: Enabled validators:
+[2026.04.13-18.07.37:550][797]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.13-18.07.37:550][797]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.13-18.07.37:550][797]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.13-18.07.37:550][797]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.13-18.07.37:550][797]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.13-18.07.37:550][797]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.13-18.07.37:550][797]AssetCheck: /Game/Inventory/Models/BP_Item1 Validating asset
+[2026.04.13-18.07.47:624][549]LogSlate: Window 'BP_Item1' being destroyed
+[2026.04.13-18.07.47:629][549]LogSlate: Window 'BP_Item1' being destroyed
+[2026.04.13-18.07.47:633][549]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-18.07.47:633][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-18.07.47:663][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.04.13-18.09.13:869][209]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18446690798935543241
+[2026.04.13-18.09.13:869][209]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2026.04.13-18.09.13:873][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display: ================================================
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display: Total job queries 11,676, among them cache hits 10 (0.09%), DDC hits 0 (0.00%), Duplicates 2,682 (22.97%)
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display: Tracking 8,984 distinct input hashes that result in 8,484 distinct outputs (94.43%)
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display: RAM used: 6.36 MiB of 3.20 GiB budget. Usage: 0.19%
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display: Shaders Compiled: 8,984
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display: Jobs assigned 8,984, completed 8,984 (100%)
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display: Average time worker was idle: 35.81 s
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display: Time job spent in pending queue: average 106.64 s, longest 230.02 s
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display: Job execution time: average 3.14 s, max 45.43 s
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display: Job life time (pending + execution): average 109.78 s, max 230.46
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display: Shader code size: average 14.281 KiB, min 1.16 KiB, max 330.166 KiB
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 255.50 s
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.17%
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display: Jobs were issued in 1,028 batches (only local compilation was used), average 8.74 jobs/batch
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display: Average processing rate: 35.16 jobs/sec
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display: Total thread time: 2,816.06 s
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display: Total thread preprocess time: 84.041 s
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display: Percentage time preprocessing: 2.98%
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display: Effective parallelization: 11.02 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   27 times, average 11.84 sec, max 39.94 sec, min 0.84 sec)
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    1 times, average 9.29 sec, max 9.29 sec, min 9.29 sec)
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 4.83 sec, max 5.63 sec, min 3.38 sec)
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 2.35 sec, max 2.35 sec, min 2.35 sec)
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 2.22 sec, max 2.22 sec, min 2.22 sec)
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.69% of total time (compiled  454 times, average 0.79 sec, max 1.12 sec, min 0.53 sec)
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 11.36% of total time (compiled   27 times, average 11.84 sec, max 39.94 sec, min 0.84 sec)
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 10.36% of total time (compiled  260 times, average 1.12 sec, max 2.72 sec, min 0.00 sec)
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 5.54% of total time (compiled  480 times, average 0.32 sec, max 0.54 sec, min 0.14 sec)
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 3.91% of total time (compiled   72 times, average 1.53 sec, max 2.32 sec, min 1.09 sec)
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display: === Material stats ===
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display: Materials Translated:    139
+[2026.04.13-18.09.21:739][869]LogShaderCompilers: Display: Material Total Translate Time: 0.08 s
+[2026.04.13-18.09.21:740][869]LogShaderCompilers: Display: Material Translation Only: 0.03 s (39%)
+[2026.04.13-18.09.21:740][869]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.04.13-18.09.21:740][869]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.04.13-18.09.21:740][869]LogShaderCompilers: Display: ================================================
+[2026.04.13-18.09.55:844][888]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7241.587891
+[2026.04.13-18.09.56:014][903]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-18.09.56:014][903]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7241.745117, Update Interval: 313.487976
+[2026.04.13-18.15.37:771][886]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.04.13-18.15.37:782][886]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.04.13-18.15.37:788][886]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.04.13-18.15.37:791][886]LogAutomationController: Ignoring very large delta of 4.26 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.04.13-18.15.37:798][887]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.04.13-18.15.46:326][619]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7591.952637
+[2026.04.13-18.15.46:483][633]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-18.15.46:483][633]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7592.098633, Update Interval: 330.841400
+[2026.04.13-18.15.51:159][ 48]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Item
+[2026.04.13-18.15.51:165][ 48]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.04.13-18.15.55:505][435]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Inventory/Blueprints/BP_Item.BP_Item
+[2026.04.13-18.15.55:505][435]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.04.13-18.17.08:375][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.04.13-18.17.33:793][ 56]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Inventory/Blueprints/BP_Item.BP_Item_C
+[2026.04.13-18.17.33:793][ 56]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Inventory/Blueprints/BP_Item.BP_Item_C
+[2026.04.13-18.17.33:794][ 56]LogActorFactory: Actor Factory spawned Blueprint /Game/Inventory/Blueprints/BP_Item.BP_Item as actor: BP_Item_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Item_C_0
+[2026.04.13-18.17.33:794][ 56]LogActorFactory: Actor Factory spawned Blueprint /Game/Inventory/Blueprints/BP_Item.BP_Item as actor: BP_Item_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Item_C_0
+[2026.04.13-18.17.34:626][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.04.13-18.17.34:645][147]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2026.04.13-18.17.34:656][147]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Inventory/Blueprints/BP_Item.BP_Item_C
+[2026.04.13-18.17.34:656][147]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Inventory/Blueprints/BP_Item.BP_Item_C
+[2026.04.13-18.17.34:659][147]LogActorFactory: Actor Factory spawned Blueprint /Game/Inventory/Blueprints/BP_Item.BP_Item as actor: BP_Item_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Item_C_UAID_2C58B90D06594ED102_1405630927
+[2026.04.13-18.17.34:660][147]LogActorFactory: Actor Factory spawned Blueprint /Game/Inventory/Blueprints/BP_Item.BP_Item as actor: BP_Item_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Item_C_UAID_2C58B90D06594ED102_1405630927
+[2026.04.13-18.19.27:759][590]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Inventory/Models/BP_Item1.BP_Item1
+[2026.04.13-18.19.27:759][590]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2026.04.13-18.20.55:947][ 80]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Inventory/Models/BP_Item1.BP_Item1_C
+[2026.04.13-18.20.55:947][ 80]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Inventory/Models/BP_Item1.BP_Item1_C
+[2026.04.13-18.20.55:947][ 80]LogActorFactory: Actor Factory spawned Blueprint /Game/Inventory/Models/BP_Item1.BP_Item1 as actor: BP_Item1_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Item1_C_0
+[2026.04.13-18.20.55:948][ 80]LogActorFactory: Actor Factory spawned Blueprint /Game/Inventory/Models/BP_Item1.BP_Item1 as actor: BP_Item1_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Item1_C_0
+[2026.04.13-18.20.56:604][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.04.13-18.20.56:605][153]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2026.04.13-18.20.56:616][153]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Inventory/Models/BP_Item1.BP_Item1_C
+[2026.04.13-18.20.56:616][153]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Inventory/Models/BP_Item1.BP_Item1_C
+[2026.04.13-18.20.56:618][153]LogActorFactory: Actor Factory spawned Blueprint /Game/Inventory/Models/BP_Item1.BP_Item1 as actor: BP_Item1_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Item1_C_UAID_2C58B90D06594ED102_1607588928
+[2026.04.13-18.20.56:618][153]LogActorFactory: Actor Factory spawned Blueprint /Game/Inventory/Models/BP_Item1.BP_Item1 as actor: BP_Item1_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Item1_C_UAID_2C58B90D06594ED102_1607588928
+[2026.04.13-18.21.08:198][287]Cmd: DELETE
+[2026.04.13-18.21.08:198][287]Cmd: ACTOR DELETE
+[2026.04.13-18.21.08:200][287]LogEditorActor: Deleted Actor: BP_Item1_C
+[2026.04.13-18.21.08:212][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.04.13-18.21.08:213][287]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.04.13-18.21.55:933][532]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7961.495117
+[2026.04.13-18.21.56:101][548]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-18.21.56:101][548]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7961.651855, Update Interval: 320.017700
+[2026.04.13-18.27.57:316][752]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8322.988281
+[2026.04.13-18.27.57:476][771]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-18.27.57:476][771]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8323.137695, Update Interval: 335.188446
+[2026.04.13-18.34.28:125][632]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8714.016602
+[2026.04.13-18.34.28:283][651]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-18.34.28:283][651]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8714.168945, Update Interval: 304.909210
+[2026.04.13-18.38.14:232][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.04.13-18.38.14:237][615]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/5R/20CEWR3UB7ENRDRNOIRN2B_Auto3
+[2026.04.13-18.38.14:237][615]LogSavePackage: Moving 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Saved/20CEWR3UB7ENRDRNOIRN2B_Auto3DD7FD42146D80E4BC17ECDB354FC4AE3.tmp' to 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/5R/20CEWR3UB7ENRDRNOIRN2B_Auto3.uasset'
+[2026.04.13-18.38.14:239][615]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.024
+[2026.04.13-18.38.14:239][615]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.024
+[2026.04.13-18.38.14:239][615]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/Blueprints/BP_Item] ([2] browsable assets)...
+[2026.04.13-18.38.14:239][615]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Blueprints/BP_Item]
+[2026.04.13-18.38.14:242][615]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/Blueprints/BP_Item_Auto3
+[2026.04.13-18.38.14:242][615]LogSavePackage: Moving 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Saved/BP_Item_Auto3A1CCD9B046BDAF697C07108B0742D263.tmp' to 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Saved/Autosaves/Game/Inventory/Blueprints/BP_Item_Auto3.uasset'
+[2026.04.13-18.38.14:243][615]LogFileHelpers: Auto-saving content packages took 0.005
+[2026.04.13-18.40.21:856][999]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9067.847656
+[2026.04.13-18.40.22:856][  2]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-18.40.22:856][  2]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9068.514648, Update Interval: 330.407410
+[2026.04.13-18.46.47:243][154]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9453.187500
+[2026.04.13-18.46.48:244][157]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-18.46.48:244][157]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9453.855469, Update Interval: 355.563232
+[2026.04.13-18.53.31:316][367]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9857.187500
+[2026.04.13-18.53.32:317][370]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-18.53.32:317][370]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9857.853516, Update Interval: 306.020691
+[2026.04.13-18.59.09:705][382]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10195.543945
+[2026.04.13-18.59.10:706][385]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-18.59.10:706][385]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10196.210938, Update Interval: 344.197510
+[2026.04.13-19.05.39:765][552]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10585.556641
+[2026.04.13-19.05.40:765][555]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-19.05.40:765][555]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10586.222656, Update Interval: 310.904266
+[2026.04.13-19.07.04:925][807]LogDerivedDataCache: C:/Users/et2-leveson/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.13-19.11.24:486][586]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10930.237305
+[2026.04.13-19.11.25:486][588]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-19.11.25:486][588]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10930.903320, Update Interval: 340.657990
+[2026.04.13-19.17.56:579][762]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11322.281250
+[2026.04.13-19.17.57:579][765]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-19.17.57:579][765]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11322.947266, Update Interval: 343.485229
+[2026.04.13-19.24.24:311][925]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11709.964844
+[2026.04.13-19.24.25:311][928]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-19.24.25:311][928]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11710.630859, Update Interval: 359.240082
+[2026.04.13-19.31.01:038][115]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12106.660156
+[2026.04.13-19.31.02:037][118]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-19.31.02:037][118]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12107.326172, Update Interval: 308.163086
+[2026.04.13-19.36.52:099][168]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12457.665039
+[2026.04.13-19.36.53:099][171]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-19.36.53:099][171]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12458.331055, Update Interval: 341.403229
+[2026.04.13-19.43.12:170][308]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12837.718750
+[2026.04.13-19.43.13:168][311]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-19.43.13:168][311]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12838.384766, Update Interval: 354.812469
+[2026.04.13-19.49.41:274][475]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13226.746094
+[2026.04.13-19.49.42:275][478]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-19.49.42:275][478]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13227.412109, Update Interval: 346.279480
+[2026.04.13-19.56.02:002][617]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13607.422852
+[2026.04.13-19.56.03:004][620]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-19.56.03:004][620]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13608.089844, Update Interval: 328.232056
+[2026.04.13-20.00.04:088][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.04.13-20.00.04:982][562]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.13-20.00.05:039][562]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/Blueprints/BP_Item] ([2] browsable assets)...
+[2026.04.13-20.00.05:039][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Blueprints/BP_Item]
+[2026.04.13-20.00.05:039][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Blueprints/BP_Item" FILE="D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Content/Inventory/Blueprints/BP_Item.uasset" SILENT=true
+[2026.04.13-20.00.05:043][562]LogSavePackage: Moving output files for package: /Game/Inventory/Blueprints/BP_Item
+[2026.04.13-20.00.05:043][562]LogSavePackage: Moving 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Saved/BP_Item2E9F409B417680E802B252817C8D4F19.tmp' to 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Content/Inventory/Blueprints/BP_Item.uasset'
+[2026.04.13-20.00.05:055][562]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.124 ms (total: 936.814 ms)
+[2026.04.13-20.00.05:107][562]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.13-20.00.05:107][562]LogContentValidation: Enabled validators:
+[2026.04.13-20.00.05:107][562]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.13-20.00.05:107][562]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.13-20.00.05:107][562]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.13-20.00.05:107][562]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.13-20.00.05:107][562]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.13-20.00.05:107][562]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.13-20.00.05:107][562]AssetCheck: /Game/Inventory/Blueprints/BP_Item Validating asset
+[2026.04.13-20.00.07:262][748]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.13-20.00.07:304][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.04.13-20.00.07:315][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.04.13-20.00.07:326][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.04.13-20.00.07:329][748]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/5R/20CEWR3UB7ENRDRNOIRN2B
+[2026.04.13-20.00.07:329][748]LogSavePackage: Moving 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Saved/20CEWR3UB7ENRDRNOIRN2B6AEC62FB45E0735EF1E226939E5D57D5.tmp' to 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/5R/20CEWR3UB7ENRDRNOIRN2B.uasset'
+[2026.04.13-20.00.07:340][748]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.167 ms (total: 1.01 sec)
+[2026.04.13-20.00.07:400][748]LogContentValidation: Display: Starting to validate 2 assets
+[2026.04.13-20.00.07:400][748]LogContentValidation: Enabled validators:
+[2026.04.13-20.00.07:400][748]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.13-20.00.07:400][748]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.13-20.00.07:400][748]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.13-20.00.07:400][748]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.13-20.00.07:400][748]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.13-20.00.07:400][748]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.13-20.00.07:400][748]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
