@@ -1698,3 +1698,62 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.13-16.31.28:332][754]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1334.165527
 [2026.04.13-16.31.29:333][757]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.04.13-16.31.29:333][757]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1334.832397, Update Interval: 318.409973
+[2026.04.13-16.33.28:343][736]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.04.13-16.33.28:350][736]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.04.13-16.33.28:354][736]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.04.13-16.33.28:355][736]LogAutomationController: Ignoring very large delta of 5.43 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.04.13-16.33.28:359][737]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.04.13-16.33.40:425][834]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_Slots
+[2026.04.13-16.33.40:431][834]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.04.13-16.33.43:805][146]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Inventory/Widgets/WB_Slots.WB_Slots
+[2026.04.13-16.33.43:805][146]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.04.13-16.33.43:818][146]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.04.13-16.37.14:260][969]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1680.085938
+[2026.04.13-16.37.14:460][987]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-16.37.14:460][987]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1680.274902, Update Interval: 302.027039
+[2026.04.13-16.40.23:569][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.04.13-16.40.23:572][934]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.13-16.40.41:318][495]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.13-16.40.56:940][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.04.13-16.40.58:057][978]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.13-16.40.58:126][978]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Widgets/WB_Slots] ([2] browsable assets)...
+[2026.04.13-16.40.58:128][978]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Inventory/Widgets/WB_Slots.WB_Slots]
+[2026.04.13-16.40.58:128][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Widgets/WB_Slots]
+[2026.04.13-16.40.58:128][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Widgets/WB_Slots" FILE="D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Content/Inventory/Widgets/WB_Slots.uasset" SILENT=true
+[2026.04.13-16.40.58:132][978]LogSavePackage: Moving output files for package: /Game/Inventory/Widgets/WB_Slots
+[2026.04.13-16.40.58:132][978]LogSavePackage: Moving 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Saved/WB_SlotsAD752E284E2430D31295F4AAB860CAF2.tmp' to 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Content/Inventory/Widgets/WB_Slots.uasset'
+[2026.04.13-16.40.58:144][978]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.230 ms (total: 159.226 ms)
+[2026.04.13-16.40.58:192][978]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.13-16.40.58:192][978]LogContentValidation: Enabled validators:
+[2026.04.13-16.40.58:192][978]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.13-16.40.58:192][978]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.13-16.40.58:192][978]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.13-16.40.58:192][978]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.13-16.40.58:193][978]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.13-16.40.58:193][978]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.13-16.40.58:193][978]AssetCheck: /Game/Inventory/Widgets/WB_Slots Validating asset
+[2026.04.13-16.41.30:812][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.04.13-16.41.31:417][933]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.13-16.41.31:461][933]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Widgets/WB_Slots] ([2] browsable assets)...
+[2026.04.13-16.41.31:462][933]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Inventory/Widgets/WB_Slots.WB_Slots]
+[2026.04.13-16.41.31:462][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Widgets/WB_Slots]
+[2026.04.13-16.41.31:462][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Widgets/WB_Slots" FILE="D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Content/Inventory/Widgets/WB_Slots.uasset" SILENT=true
+[2026.04.13-16.41.31:466][933]LogSavePackage: Moving output files for package: /Game/Inventory/Widgets/WB_Slots
+[2026.04.13-16.41.31:467][933]LogSavePackage: Moving 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Saved/WB_Slots375CDCC74EBEE075041FBC8BD73571D7.tmp' to 'D:/Evaaaan/gep-25-26-unreal-template-e-vn/GEP_Template/Content/Inventory/Widgets/WB_Slots.uasset'
+[2026.04.13-16.41.31:474][933]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.212 ms (total: 216.439 ms)
+[2026.04.13-16.41.31:528][933]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.13-16.41.31:528][933]LogContentValidation: Enabled validators:
+[2026.04.13-16.41.31:528][933]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.13-16.41.31:528][933]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.13-16.41.31:528][933]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.13-16.41.31:528][933]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.13-16.41.31:528][933]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.13-16.41.31:528][933]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.13-16.41.31:529][933]AssetCheck: /Game/Inventory/Widgets/WB_Slots Validating asset
+[2026.04.13-16.41.34:406][192]LogSlate: Window 'WB_Slots' being destroyed
+[2026.04.13-16.41.34:429][192]LogSlate: Window 'WB_Slots' being destroyed
+[2026.04.13-16.41.34:464][192]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-16.41.34:464][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-16.41.34:469][192]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-16.41.34:469][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-16.41.34:497][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
