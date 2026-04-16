@@ -2108,3 +2108,88 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.16-18.42.46:634][463]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.04.16-18.42.46:634][463]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.04.16-18.42.46:634][463]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Inventory_Componenet Validating asset
+[2026.04.16-18.45.09:416][854]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3285.149414
+[2026.04.16-18.45.10:416][857]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-18.45.10:416][857]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3285.816162, Update Interval: 323.830078
+[2026.04.16-18.47.35:950][293]LogDerivedDataCache: C:/Users/et2-leveson/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.16-18.51.16:472][955]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3652.199219
+[2026.04.16-18.51.17:473][958]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-18.51.17:473][958]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3652.865723, Update Interval: 327.530762
+[2026.04.16-18.57.15:875][ 32]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4011.597900
+[2026.04.16-18.57.16:875][ 35]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-18.57.16:875][ 35]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4012.264404, Update Interval: 308.935822
+[2026.04.16-19.02.26:472][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.04.16-19.02.26:476][314]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.019
+[2026.04.16-19.02.26:476][314]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Inventory_Componenet] ([2] browsable assets)...
+[2026.04.16-19.02.26:476][314]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Inventory_Componenet]
+[2026.04.16-19.02.26:487][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_Inventory_Componenet_Auto2
+[2026.04.16-19.02.26:487][314]LogSavePackage: Moving 'D:/EVANN/gep-25-26-unreal-template-e-vn/GEP_Template/Saved/BP_Inventory_Componenet_Auto2DA76915148F2C0104AB0D284C5726D67.tmp' to 'D:/EVANN/gep-25-26-unreal-template-e-vn/GEP_Template/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_Inventory_Componenet_Auto2.uasset'
+[2026.04.16-19.02.26:490][314]LogFileHelpers: Auto-saving content packages took 0.014
+[2026.04.16-19.02.58:546][519]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4354.304199
+[2026.04.16-19.02.58:696][534]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-19.02.58:696][534]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4354.443848, Update Interval: 339.467773
+[2026.04.16-19.09.17:723][352]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4733.779785
+[2026.04.16-19.09.17:885][369]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-19.09.17:885][369]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4733.930176, Update Interval: 339.363373
+[2026.04.16-19.15.34:847][954]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5111.167480
+[2026.04.16-19.15.34:997][969]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-19.15.34:997][969]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5111.308594, Update Interval: 303.193451
+[2026.04.16-19.21.17:187][ 80]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5453.681641
+[2026.04.16-19.21.17:348][ 96]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-19.21.17:348][ 96]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5453.832031, Update Interval: 308.578766
+[2026.04.16-19.27.11:350][400]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5808.107910
+[2026.04.16-19.27.11:512][417]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-19.27.11:512][417]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5808.257812, Update Interval: 347.715088
+[2026.04.16-19.33.35:107][672]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6192.248535
+[2026.04.16-19.33.35:268][689]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-19.33.35:268][689]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6192.399414, Update Interval: 307.773071
+[2026.04.16-19.39.27:733][844]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6545.119141
+[2026.04.16-19.39.27:884][859]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-19.39.27:884][859]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6545.259277, Update Interval: 304.982452
+[2026.04.16-19.45.31:335][921]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6908.867188
+[2026.04.16-19.45.32:336][924]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-19.45.32:336][924]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6909.533691, Update Interval: 305.594055
+[2026.04.16-19.47.35:975][294]LogDerivedDataCache: C:/Users/et2-leveson/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.16-19.51.09:380][934]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7246.915527
+[2026.04.16-19.51.10:381][938]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-19.51.10:381][938]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7247.583496, Update Interval: 322.502502
+[2026.04.16-19.57.12:643][418]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7610.227051
+[2026.04.16-19.57.12:792][433]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-19.57.12:792][433]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7610.366699, Update Interval: 336.594757
+[2026.04.16-20.03.44:351][487]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8002.160645
+[2026.04.16-20.03.44:511][502]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-20.03.44:511][502]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8002.311523, Update Interval: 354.336365
+[2026.04.16-20.10.30:383][986]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8407.327148
+[2026.04.16-20.10.30:534][  1]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-20.10.30:534][  2]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8407.466797, Update Interval: 315.256805
+[2026.04.16-20.16.39:836][825]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8775.107422
+[2026.04.16-20.16.39:985][840]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-20.16.39:985][840]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8775.244141, Update Interval: 302.367615
+[2026.04.16-20.22.25:088][559]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9119.153320
+[2026.04.16-20.22.26:089][562]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-20.22.26:089][562]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9119.819336, Update Interval: 302.486633
+[2026.04.16-20.28.08:516][588]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9462.547852
+[2026.04.16-20.28.09:516][592]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-20.28.09:516][592]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9463.214844, Update Interval: 329.753723
+[2026.04.16-20.34.25:566][ 35]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9839.536133
+[2026.04.16-20.34.26:566][ 37]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-20.34.26:566][ 38]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9840.205078, Update Interval: 341.447205
+[2026.04.16-20.40.56:969][209]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10230.880859
+[2026.04.16-20.40.57:968][212]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-20.40.57:968][212]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10231.548828, Update Interval: 358.342834
+[2026.04.16-20.41.33:679][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.04.16-20.41.34:437][352]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.16-20.41.34:509][352]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Inventory_Componenet] ([2] browsable assets)...
+[2026.04.16-20.41.34:509][352]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Inventory_Componenet]
+[2026.04.16-20.41.34:519][352]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Inventory_Componenet
+[2026.04.16-20.41.34:520][352]LogSavePackage: Moving 'D:/EVANN/gep-25-26-unreal-template-e-vn/GEP_Template/Saved/BP_Inventory_Componenet3CDD0B794B2D47FFD1E806B9DB6E3A58.tmp' to 'D:/EVANN/gep-25-26-unreal-template-e-vn/GEP_Template/Content/ThirdPerson/Blueprints/BP_Inventory_Componenet.uasset'
+[2026.04.16-20.41.34:526][352]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.577 ms (total: 744.533 ms)
+[2026.04.16-20.41.34:575][352]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.16-20.41.34:575][352]LogContentValidation: Enabled validators:
+[2026.04.16-20.41.34:575][352]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.16-20.41.34:575][352]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.16-20.41.34:575][352]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.16-20.41.34:575][352]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.16-20.41.34:575][352]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.16-20.41.34:575][352]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.16-20.41.34:575][352]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Inventory_Componenet Validating asset
