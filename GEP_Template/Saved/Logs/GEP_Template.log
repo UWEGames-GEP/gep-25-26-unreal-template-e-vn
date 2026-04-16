@@ -2074,3 +2074,37 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.16-18.19.47:870][714]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1763.645996
 [2026.04.16-18.19.48:870][718]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.04.16-18.19.48:870][718]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1764.312866, Update Interval: 321.892761
+[2026.04.16-18.26.10:278][862]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2146.041260
+[2026.04.16-18.26.11:280][865]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-18.26.11:280][865]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2146.707764, Update Interval: 325.890076
+[2026.04.16-18.32.25:035][985]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2520.786621
+[2026.04.16-18.32.26:036][988]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-18.32.26:036][988]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2521.453613, Update Interval: 330.400085
+[2026.04.16-18.37.17:168][213]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_Inventory_Componenet.BP_Inventory_Componenet
+[2026.04.16-18.37.17:168][213]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.04.16-18.38.52:660][579]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2908.403320
+[2026.04.16-18.38.52:801][593]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.16-18.38.52:801][593]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2908.533447, Update Interval: 325.240021
+[2026.04.16-18.39.54:213][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.04.16-18.39.54:216][546]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.026
+[2026.04.16-18.39.54:217][546]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Inventory_Componenet] ([2] browsable assets)...
+[2026.04.16-18.39.54:217][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Inventory_Componenet]
+[2026.04.16-18.39.54:227][546]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_Inventory_Componenet_Auto1
+[2026.04.16-18.39.54:228][546]LogSavePackage: Moving 'D:/EVANN/gep-25-26-unreal-template-e-vn/GEP_Template/Saved/BP_Inventory_Componenet_Auto13BE44C47416A9F414D33AAB6946B7B98.tmp' to 'D:/EVANN/gep-25-26-unreal-template-e-vn/GEP_Template/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_Inventory_Componenet_Auto1.uasset'
+[2026.04.16-18.39.54:229][546]LogFileHelpers: Auto-saving content packages took 0.014
+[2026.04.16-18.42.45:335][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.04.16-18.42.46:475][463]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.16-18.42.46:551][463]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Inventory_Componenet] ([2] browsable assets)...
+[2026.04.16-18.42.46:551][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Inventory_Componenet]
+[2026.04.16-18.42.46:562][463]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Inventory_Componenet
+[2026.04.16-18.42.46:564][463]LogSavePackage: Moving 'D:/EVANN/gep-25-26-unreal-template-e-vn/GEP_Template/Saved/BP_Inventory_Componenet35625A0C42203F57A9BB0883366AB977.tmp' to 'D:/EVANN/gep-25-26-unreal-template-e-vn/GEP_Template/Content/ThirdPerson/Blueprints/BP_Inventory_Componenet.uasset'
+[2026.04.16-18.42.46:572][463]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.667 ms (total: 655.955 ms)
+[2026.04.16-18.42.46:633][463]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.16-18.42.46:633][463]LogContentValidation: Enabled validators:
+[2026.04.16-18.42.46:633][463]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.16-18.42.46:634][463]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.16-18.42.46:634][463]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.16-18.42.46:634][463]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.16-18.42.46:634][463]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.16-18.42.46:634][463]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.16-18.42.46:634][463]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Inventory_Componenet Validating asset
